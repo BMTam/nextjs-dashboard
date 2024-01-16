@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "user_name" : "guest",
+        "password": "Abc12345",
+        "name": "Lê Văn A"
+    },
+    {
+        "id": 2,
+        "user_name" : "guest2",
+        "password": "Abc12345~",
+        "name": "Trần Văn B"
+    }
+]
